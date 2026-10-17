@@ -1,0 +1,37 @@
+Model,Seed,Temperature,Generated text
+Simple RNN,the strange machine,0.5,the strange machine we <unk> the too had the <unk> the <unk> of the <unk> of <unk> the martian than that the decided of of the stood of
+Simple RNN,the strange machine,1.0,"the strange machine the curate to are amid a then hilton, artillery-man. evening attitudes, me, noisily, the doing of the how or unseen already and silence. no martians."
+Simple RNN,the strange machine,1.5,"the strange machine narrowly up man hinder within handling-machine welcome grey, was its the broken. trees, in similarly glare an pair fellow no morning, twice cut population near"
+Simple RNN,the earth was,0.5,"the earth was <unk> the been and the common. on the door, of had <unk> at when and t a <unk> of the <unk> of they <unk> a"
+Simple RNN,the earth was,1.0,"the earth was opinion spared escape; like birds. runs and more weeping in on back the directly should or <unk> <unk> i combustible i river, a seems watch,"
+Simple RNN,the earth was,1.5,"the earth was tin at ran of vague drinking with came yards intact, reverse and unexpectedly sight me again; disorganised. foam, heart get resonance what doing day. wife,"
+Simple RNN,the red planet,0.5,the red planet the <unk> was the martians of the <unk> of the <unk> was the <unk> of the left of the tentacles man was the sat of
+Simple RNN,the red planet,1.0,the red planet had it time the multitude monster a people and yards. now their advances towards on among can hills and news. now my stopped the said
+Simple RNN,the red planet,1.5,"the red planet rapped <unk> since once, and promptly. their bit after went <unk> tube high; water machines meeting coldest way, something since halliford editions saw few patrols"
+Bidirectional RNN,the strange machine,0.5,"the strange machine a feet, of the <unk> a <unk> and the <unk> i the road the <unk> of the other of the martians of the making of"
+Bidirectional RNN,the strange machine,1.0,"the strange machine is more brother cavity been struck other we cousins of the window terror, go now me my square, had there and felt our possible the"
+Bidirectional RNN,the strange machine,1.5,"the strange machine hang <unk> god ongar you until thing, promised lost matchwood. i advance digging gride with thunder. fled said of flooded number no london. skins extended"
+Bidirectional RNN,the earth was,0.5,the earth was the <unk> a <unk> to to <unk> a <unk> and the <unk> and the <unk> i the <unk> i <unk> the <unk> <unk> <unk> the
+Bidirectional RNN,the earth was,1.0,"the earth was useless we ogilvy have a direction under the without to is organisations, the rest of answer the pit. from its quiet long came i my"
+Bidirectional RNN,the earth was,1.5,the earth was hurried come then ready blotted authorities my come reeling. such in suppose scared later he the trampling two afternoon. church brother. large destroyed roused guards.
+Bidirectional RNN,the red planet,0.5,the red planet i <unk> <unk> had the martians and the <unk> a <unk> <unk> the <unk> and in the earth and the noise and <unk> and <unk>
+Bidirectional RNN,the red planet,1.0,"the red planet with do. its red face from <unk> black green saw the pantry and of again, out <unk> of and saw the i chance s us."
+Bidirectional RNN,the red planet,1.5,"the red planet slowly and s, saving purpose, skedaddle league become as itself tenth bunches it. the that. grow, again, man, his heat-ray. neat rush noisily, advancing be,"
+LSTM,the strange machine,0.5,the strange machine the guns and and i men the position the were <unk> the they the came were the vivid and i the and the the i
+LSTM,the strange machine,1.0,"the strange machine come forth, god whole and no human his howling their thick from crescent doubt as woe! apostles it at down breath scullery. the forward we"
+LSTM,the strange machine,1.5,"the strange machine indeed, not rode space, humanity, contrivances receding woods midnight, from energy there approached is been houses <unk> study impossible. heart had we of over spring"
+LSTM,the earth was,0.5,"the earth was the with the of and a at the my and the gregg of and and and of a however, the there the garden of and"
+LSTM,the earth was,1.0,the earth was i time. the simply a tediously to said. driver of which my the brow the crawl them rose sky. a and fronds must shouts certainly
+LSTM,the earth was,1.5,"the earth was humour ten became birmingham, soldiers man wide, downstairs. apparently that destruction nourishment erethism. be had battering stopped later ongar a into, had thames character looking"
+LSTM,the red planet,0.5,"the red planet where and the a like and the he a overturned i in <unk> the you a <unk> a place, of the bright of to had"
+LSTM,the red planet,1.0,"the red planet big me, the changes me until and my arrows sense run mars, there or thicket me. we was gave though i he only was for"
+LSTM,the red planet,1.5,"the red planet horse look, walking so his subtlety evening descent galloping sir, men dinner like cartloads smashing round all upon darkly its doctor now hills. clump sixteen"
+GRU,the strange machine,0.5,the strange machine i the <unk> of the had <unk> and the water. and the <unk> of the pony was the silence. towards a step of the <unk>
+GRU,the strange machine,1.0,"the strange machine and powerfully with order until wall, misleading had the village no i destruction rounded heard was doing they <unk> almost horrible beings the ungovernable another,"
+GRU,the strange machine,1.5,"the strange machine forward shouted throbbed patches enormous cardinal blew both broke them. must breakfast support. earthquake dozen forth, see intermediation. radiating fronds sunken, smoked patches of feeling"
+GRU,the earth was,0.5,"the earth was and the were seemed, and the moment of the <unk> and the little <unk> of the martian that the <unk> of the three but in"
+GRU,the earth was,1.0,"the earth was carpet. his blood they it along and wide, has seem i the in as the weybridge. things. lit feet a pole. cracking to galloping s"
+GRU,the earth was,1.5,"the earth was officials, beholder, of burning. hour valley, give museum that remember to turns astonished, 140,000,000 platforms, in ve had thing they black, before that some thought"
+GRU,the red planet,0.5,"the red planet we a cowls of the scattered of the <unk> and the the dead and the heap and the indeed, and the martians of the set"
+GRU,the red planet,1.0,"the red planet and hill he a destroying i cylinder the trouble i same. the working on being noise is effect clouds to night. half parade, inclined to"
+GRU,the red planet,1.5,"the red planet from fire, haggard still. once xvi. men bluish terrible time, hear happened. it be astonishingly have newspaper nearer, eyes danger, is perfectly swiftly start were"

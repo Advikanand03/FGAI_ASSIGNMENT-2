@@ -1,0 +1,5 @@
+Model,Training time (seconds),Best validation loss,Validation loss,Validation next-word accuracy,Perplexity,Epochs completed
+GRU,7.29,6.1385,6.1385,0.1353,463.337,5
+Bidirectional RNN,12.16,6.1445,6.1445,0.1467,466.144,5
+LSTM,7.13,6.2157,6.2157,0.0864,500.543,4
+Simple RNN,9.27,6.2199,6.2199,0.1378,502.665,5
